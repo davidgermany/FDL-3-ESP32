@@ -8,7 +8,8 @@ off the shelf components available everywhere in the world:
 
 ESP32 Microcontroller
 
-![image](https://github.com/davidgermany/FDL-3-ESP32/assets/44377583/fa5b1cae-38f9-4739-9bb8-7a7faf8e5adc)
+![image](https://github.com/davidgermany/FDL-3-ESP32/assets/44377583/325905b3-4b09-4550-b143-888da1551aa9)
+
 
 
 Nokia Display with already soldered on Pins (alternatively basic OLED screen)
