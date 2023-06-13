@@ -17,7 +17,7 @@ Nokia Display with already soldered on Pins (alternatively basic OLED screen)
 ![image](https://github.com/davidgermany/FDL-3-ESP32/assets/44377583/b9be18af-c8f3-49d7-9c03-d988abdac6a5)
 
 
-In the future there will be the required .stl files as well as the needed ESP32 firmware available here on github.
+In the future I will upload the .stl files as well as the needed ESP32 firmware available here on github, don't worry it is on my todo list.
 
 I want this Blaster to be:
 
@@ -34,3 +34,8 @@ I want this Blaster to be:
 -Enough space inside to fit all the electronics nicely, enough space for long cables so you can easily access all the parts.
 
 I'm currently in the making of this project, I know it is possible and is worth doing, as the Project-FDL company is not producing any more FDL-3 blasters
+
+Current state of the Project:
+.stl files: being tested (9/10 finished) they are probably finished already, but I will have to print them and build it first to confirm that everything fits.
+Make sure your 3D printer is dimensionally accurate, I have multiple 3D printers so I will make sure the parts are not just based on my printer but is generally usable as long as your printer is set up correctly, this process is not very easy and.
+ESP32 firmware: being developed (1/10 finished) in the process of figuring out how to drive brushless DC motors with ESP32
