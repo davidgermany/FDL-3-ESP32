@@ -3,7 +3,7 @@ Iam in the process of reviving this project, so that you can build it from off t
 My goals for the required Hardware:
 
 off the shelf components available everywhere in the world:
-
+![WhatsApp Bild 2024-09-10 um 20 44 03_58d99ddf](https://github.com/user-attachments/assets/02c6ddf6-5843-47b4-b91f-ddf0e9d0ca2c)
 
 
 
@@ -34,7 +34,7 @@ I want this Blaster to be:
 
 -Enough space inside to fit all the electronics nicely, enough space for long cables so you can easily access all the parts.
 
-![WhatsApp Bild 2024-09-10 um 20 44 03_58d99ddf](https://github.com/user-attachments/assets/02c6ddf6-5843-47b4-b91f-ddf0e9d0ca2c)
+
 
 I'm currently in the making of this project, I know it is possible and is worth doing, as the Project-FDL company is not producing any more FDL-3 blasters
 
