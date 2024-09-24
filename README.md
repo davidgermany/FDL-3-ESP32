@@ -6,6 +6,7 @@ off the shelf components available everywhere in the world:
 
 
 
+
 ESP32 Microcontroller
 
 ![image](https://github.com/davidgermany/FDL-3-ESP32/assets/44377583/325905b3-4b09-4550-b143-888da1551aa9)
@@ -32,6 +33,8 @@ I want this Blaster to be:
 -Easy to read, understand and change firmware for your specific purpose (although the parts I found for this project are recommended, and will hopefully be available for a long time, one day there will be something better, so I will not stand in your way to change it.)
 
 -Enough space inside to fit all the electronics nicely, enough space for long cables so you can easily access all the parts.
+
+![WhatsApp Bild 2024-09-10 um 20 44 03_58d99ddf](https://github.com/user-attachments/assets/02c6ddf6-5843-47b4-b91f-ddf0e9d0ca2c)
 
 I'm currently in the making of this project, I know it is possible and is worth doing, as the Project-FDL company is not producing any more FDL-3 blasters
 
