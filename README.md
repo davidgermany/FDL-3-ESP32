@@ -41,4 +41,5 @@ I'm currently in the making of this project, I know it is possible and is worth 
 Current state of the Project:
 .stl files: being tested (9/10 finished) they are probably finished already, but I will have to print them and build it first to confirm that everything fits.
 Make sure your 3D printer is dimensionally accurate, I have multiple 3D printers so I will make sure the parts are not just based on my printer but is generally usable as long as your printer is set up correctly, this process is not very easy and.
-ESP32 firmware: being developed (1/10 finished) in the process of figuring out how to drive brushless DC motors with ESP32
+ESP32 firmware: 
+UPDATE: FINISHED (10/10 finished) Everything works, and the code is uploaded.
