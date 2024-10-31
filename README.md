@@ -43,3 +43,15 @@ Current state of the Project:
 Make sure your 3D printer is dimensionally accurate, I have multiple 3D printers so I will make sure the parts are not just based on my printer but is generally usable as long as your printer is set up correctly, this process is not very easy and.
 ESP32 firmware: 
 UPDATE: FINISHED (10/10 finished) Everything works, and the code is uploaded.
+
+
+How to build your Blaster:
+Software side:
+You need the Arduino IDE, and you need to download all code files in the main tree. 
+
+Hardware side: (Still need to upload files)
+When files are uploaded they will be in a folder called "FDL-ESP32-3D-Print" //Will do that around 2024 probably
+Print all files as they are in the Fusion360 file // You can get Fusion360 for free as a hobbyist
+Build it together using M3 Heat inserts, M3 Screws, wire, etc.
+Your a little on your own, as I don't really have time writing instructions, but there are videos online that show how the original FDL ist built, its still 90% Accurate.
+The missing things are self-explanatory (good luck)
